@@ -4,7 +4,7 @@ Venmo is a peer-to-peer mobile payment app owned by PayPal. Users can exchange m
 
 The dataset available has around 7 million observation without specific user identity information.
 
-In this project, there are three parts:
+**In this project, there are three parts:**
 
 **First part** is text analysis: we are provided transaction description dictionaries that map *words* and *emojis* into transaction dictionary. We will do text analysis with the dictionaries and build users' dynamic spending profiles within 12 months after their first transaction.
 
